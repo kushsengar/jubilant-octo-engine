@@ -22,6 +22,10 @@ Settings Page to update profile and business preferences.
 Contact Page for user support and inquiries.
 
 Each section will be designed to provide businesses with insights to make data-driven decisions on inventory management and product delivery.
+![image](https://github.com/user-attachments/assets/05d07f25-8fa2-47d3-bcee-c31398bfed53)
+
+![image](https://github.com/user-attachments/assets/7ab2aee9-6ea3-4443-84b7-469448ebefdb)
+
 
 Website Structure
 1. Homepage
