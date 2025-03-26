@@ -86,9 +86,4 @@ An AI-powered demand forecasting system for hyperlocal delivery services allows 
 
 ---
 
-## Team Name: Team Avinya
-### Members:
-- Yash Shivlal Purbhe
-- Dipshree Atul Vartak
-- Aditya Rajendra Kokate
-- Saniya Santosh Puchalwar
+
