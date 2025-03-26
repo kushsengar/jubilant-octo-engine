@@ -1,5 +1,4 @@
-# jubilant-octo-engine
-
+# DemandWise
 Overview of the Website
 The website will serve as the user interface for the AI-Powered Demand Forecasting System for Hyperlocal Delivery. It will enable businesses to interact with the demand forecasting model, analyze their sales data, and manage inventory in a seamless and intuitive way.
 
