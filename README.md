@@ -164,9 +164,6 @@ Authentication: JWT (JSON Web Tokens) for secure login and session management.
 Cloud: AWS or DigitalOcean for hosting, S3 for file storage, and MongoDB Atlas for the database.
 
 Setup Instructions
-Frontend
-Clone the repository:
-git clone https://github.com/Yashpurbhe123/Team_Avinya-Mumbai_Hack.git
 
 Navigate to the frontend directory:
 cd frontend
@@ -178,8 +175,6 @@ Start the development server:
 npm start
 
 Backend
-Clone the backend repository (if separate):
-git clone https://github.com/Yashpurbhe123/Team_Avinya-Mumbai_Hack-backend.git
 
 Navigate to the backend directory:
 cd backend
@@ -190,5 +185,4 @@ npm install
 Start the server:
 npm start
 
-Conclusion
-This project provides a comprehensive, AI-powered demand forecasting system for hyperlocal delivery businesses. The website will serve as an intuitive and user-friendly interface for interacting with this system, enabling businesses to make informed decisions regarding their inventory management and sales strategies.
+
